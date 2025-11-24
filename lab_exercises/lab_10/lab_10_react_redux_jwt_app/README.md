@@ -4,7 +4,7 @@ In short, my application resembles the lab that focused on Context API last Frid
 
 ## How It Works
 
-###Login
+### Login
 
 - Clicking Login generates a fake JWT token
 
