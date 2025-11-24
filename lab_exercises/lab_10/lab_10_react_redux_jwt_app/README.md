@@ -1,6 +1,6 @@
 # COMP 3123 - Lab 10 - React Redux & JWT
 
-In short, my application resembles the lab that focused on Context API last Friday (24/11/2025).
+In short, my application resembles the lab that focused on Context API last Friday (21/11/2025).
 
 ## How It Works
 
