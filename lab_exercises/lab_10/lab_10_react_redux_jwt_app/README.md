@@ -1,8 +1,9 @@
-#COMP 3123 - Lab 10 - React Redux & JWT
+# COMP 3123 - Lab 10 - React Redux & JWT
 
 In short, my application resembles the lab that focused on Context API last Friday (24/11/2025).
 
-##How It Works
+## How It Works
+
 ###Login
 
 - Clicking Login generates a fake JWT token
@@ -13,7 +14,7 @@ In short, my application resembles the lab that focused on Context API last Frid
 
 - App navigates to the Dashboard
 
-###Dashboard
+### Dashboard
 
 - Displays the stored JWT
 
